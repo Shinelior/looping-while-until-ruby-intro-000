@@ -5,7 +5,7 @@ def using_until
         break
         if levitation_force== 10
           puts 
-  
+              
   
     
 end
