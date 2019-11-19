@@ -3,10 +3,10 @@ def using_while
   while levitation_force  
   levitation_force+= 1
   if levitation_force >10
-	  puts 'Wingardium Leviosa'
-	end
-	if levitation_force > 11
-	  break
+	   break
+	elsif
+	 puts 'Wingardium Leviosa'
+	 
    end
   end
  end
