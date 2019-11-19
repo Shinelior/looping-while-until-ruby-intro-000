@@ -4,7 +4,7 @@ def using_while
   levitation_force+= 1
   if levitation_force >10
 	   break
-	elsif
+	elsif 
 	 puts 'Wingardium Leviosa'
 	 
    end
